@@ -1,5 +1,4 @@
-# lead-tracker
-chrome extension
+# lead-tracker chrome extension
 things i learned while making this project:
 - addEventListener()
 - function parameters
